@@ -12,19 +12,9 @@ const Services = () => {
             icon: assets.ads_icon
         },
         {
-            title : 'Content Marketing',
-            description : ' We help you execute your plan and deliver results...',
-            icon: assets.marketing_icon
-        },
-        {
             title: 'Brand Strategy',
             description: 'We craft clear brand identities that communicate your values and set you apart...',
             icon: assets.marketing_icon
-        },
-        {
-            title: 'UI/UX Design',
-            description: 'We design intuitive, user-focused interfaces that enhance engagement and usability...',
-            icon: assets.menu_icon
         },
         {
             title: 'Web Development',
@@ -32,24 +22,9 @@ const Services = () => {
             icon: assets.content_icon
         },
         {
-            title: 'SEO Optimization',
-            description: 'We optimize your online presence to improve search visibility and drive organic traffic...',
-            icon: assets.seo_icon
-        },
-        {
             title: 'Social Media Management',
             description: 'We grow and manage your social platforms to build meaningful audience connections...',
             icon: assets.social_icon
-        },
-        {
-            title: 'Email Marketing',
-            description: 'We create targeted email campaigns that convert leads into loyal customers...',
-            icon: assets.email_icon
-        },
-        {
-            title: 'Analytics & Insights',
-            description: 'We track performance data and turn insights into smarter business decisions...',
-            icon: assets.analytics_icon
         }
 
     ]
